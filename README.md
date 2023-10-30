@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @TheRay390
-- 👀 I’m interested in ... jobs 
-- 🌱 I’m currently learning ... react js of javaScript
-- 💞️ I’m looking to collaborate on ...front end engineering 
+- 👀 I’m interested in ... Projects
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me ...
-my insta id - the_ray390
+my insta id - the_ray_____
 facebook - Piyush Samal
 <!---
 TheRay390/TheRay390 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
